@@ -46,3 +46,24 @@ h1 {
     padding: 10px 20px;
     color: white;
   }
+  .footer {
+    background-color: red;
+    /* Fondo rojo */
+    padding: 10px 20px;
+    /* Espaciado interno */
+    display: flex;
+    /* Mostrar elementos en línea */
+    justify-content: center;
+    /* Centrar contenido horizontalmente */
+  }
+  
+  /* Estilos para el título de la barra de navegación */
+  .footer-title {
+    margin: 0;
+    color: white;
+    /* Texto blanco */
+  }
+
+  .elementomargen {
+    margin: 10px 10px 0px 10px;
+  }
