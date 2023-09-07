@@ -5,3 +5,43 @@ h1 {
     padding: 20px;
     
 }
+
+img {
+    display: block;
+    margin: 0 auto;
+  
+}
+
+.recuadro {
+    width: 600px; /* Ancho del recuadro */
+    height: 300px; /* Alto del recuadro */
+    border: 2px solid gainsboro; /* Borde de 2 píxeles de grosor, estilo sólido y color negro */
+    background-color: whitesmoke; /* Color de fondo del recuadro */
+    padding: 50px; /* Espacio interno para separar el contenido del borde */
+    margin: 0 auto; /* Auto para centrar horizontalmente */
+    text-align: center; 
+}
+
+.contenido{
+    display: flex;
+    padding: 50px;
+  }
+
+  .btn {
+    background-color: red;
+    padding: 10px 20px;
+    color: white;
+  }
+
+  .footer-t {
+    margin: 4;
+    color: white;
+    /* Texto blanco */
+  }
+  .p{
+    text-align: center;
+  }
+
+  .elemento-con-margen {
+    margin: 25px; /* Establece márgenes iguales en los cuatro lados (arriba, derecha, abajo, izquierda) */
+}
